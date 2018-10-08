@@ -1,6 +1,6 @@
-#include <iostream>
-#include <fstream>
-using namespace std;
+#include "two-classification.hpp"
+#include "five-classification.hpp"
+#include "regression.hpp"
 
 int main() {
 	cout << "0" << endl;
