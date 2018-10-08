@@ -112,7 +112,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="five-classification.hpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="two-classification.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib.h" />
+    <ClInclude Include="regression.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

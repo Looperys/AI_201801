@@ -18,5 +18,19 @@
     <ClCompile Include="main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="two-classification.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+    <ClCompile Include="five-classification.hpp">
+      <Filter>头文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="regression.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
